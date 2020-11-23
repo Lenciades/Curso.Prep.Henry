@@ -1,0 +1,9 @@
+Arrays:
+Son variables que pueden almacenar mas de un valor
+Pueden pensarse como listas,
+Cuadernos (muchas listas),
+Ficheros (muchos cuadernos),
+Bibliotecas (muchos ficheros)
+Y así. 
+Se acceden o cargan los datos en la variable 
+indicando la posicion dentro de corchetes que acompañan al nombre de la variable
