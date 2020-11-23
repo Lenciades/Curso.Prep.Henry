@@ -1,0 +1,17 @@
+Variables:
+Una variable sirve para guardar algo. Como una caja. 
+Si pensas usar a una variable para guardar un nombre de un auto, la vas a nombrar algo así como "NombreAuto"
+Vienen de varios tipos segun lo que quieras guardar adentro (palabras, numeros, respuestas SI/NO)
+y segun como quieras que se guarde (que no se cambie, que solo se pueda acceder desde cierto lugar, etc.)    
+Strings
+Son palabras y las tenes que poner entre comillas para que se diferencie que no estas nombrando a una variable.
+Funciones
+Son unos pasos que van a ejecutarse si llamas a la funcion y le das lo que necesita para trabajar. 
+Te puede devolver un resultado o nada. Tambien pueden cambiar variables durante su ejecucion. 
+Declaraciones if
+Son como las preguntas, si queres que tu codigo haga cosas distintas dependiendo de algo, vas a poner uno o mas IF
+Imaginate que tenes que tirarte a la pileta, pero antes de eso te preguntas si te descalzaste y no tenes nada guardado en los bolsillos, como minimo. 
+Si no lo hiciste, lo vas a tener que hacer para poder tirarte. Para lo mismo sirven los IF.
+Valores booleanos (true, false)
+Si los IF son preguntas los true/false son sus respuestas (SI/NO, cierto/falso).
+En el caso anterior si tenes los zapatos puestos, tendrias un valor en ZapatosPuestos=SI=TRUE.  
