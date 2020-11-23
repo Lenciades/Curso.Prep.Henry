@@ -1,0 +1,10 @@
+For:
+El código se ejecuta una vez, si queremos que se repita una parte usamos una función For. 
+El For necesita que le digamos, desde que numero empieza a contar las repeticiones, cuanto suma cada repeticion y hasta que numero va a repetir
+generalmente se empieza desde cero y cada repeticion suma 1, entonces el numero de repeticiones del codigo coincide con el numero al que terminó de contar
+&& (Operador AND) y || (Operador OR)
+Sirve para combinar verdaderos y falsos. 
+Para el AND todo tiene que ser verdadero para que el resultado sea verdadero.
+Para el OR alcanza con que uno sea verdadero para que el resultado sea verdadero.
+!(Operador negación)
+Vuelve falso a lo verdadero y verdadero a lo falso.
