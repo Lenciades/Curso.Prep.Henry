@@ -1,0 +1,13 @@
+	* Objetos
+    Los objetos pueden contener mucha información. A diferencia de los arreglos, pueden definirseles elementos clave que se asocian con sus valores.
+    Sirven para representar la realidad de forma más especifica. Un objeto podria ser un auto 
+    * Propiedades
+    Son los elementos clave del objeto que pueden tener distintos valores. En el ejemplo del objeto auto, las propiedades pueden ser el color de pintura y cantidad de puertas.
+	* Métodos
+    Los metodos son funciones exclusivas de objetos. Los elementos clave o metodos pueden ser accedidos agregandoles al nombre del objeto un punto y el elemento clave.
+    En el ejemplo del auto podrian ser acciones posibles como: acelerar, frenar, doblar, etc.
+	* Bucle `for…in`
+    El bucle "for in" se utiliza en los objetos, ya que como no son arreglos, no estan organizados por numeros. El for in recorre cada elemento clave que tenga el objeto.
+	* Notación de puntos vs notación de corchetes
+    La notacion de puntos sirve para llamar al metodo o elemento clave del objeto. Ej auto.doblar. La de corchetes es para asignar valores a los elementos clave.  
+	
