@@ -1,0 +1,8 @@
+* Funciones Callback
+Son funciones que son argumentos de otras funciones.
+Podria pensarse como una accion que requiere el resultado de otra accion.
+Por ejemplo: hacer un sanguche requiere que se corte el pan, quedaria algo como
+
+Funcion cortarPan(cuchillo, pan){return panCortado}
+Funcion hacerSanguche(jamon, queso, cortarPan(), aderezo){return sanguche}
+Ahi en vez de pedir pan cortado, llamamos a la funcion cortar pan, que nos daria un pan cortado.

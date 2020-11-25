@@ -1,0 +1,5 @@
+* `prototype`
+Es la forma en la que las clases definen los metodos. Es el metodo "original", si trabajamos sobre ese vamos a evitar crear metodos innecesarios 
+y al modificar sobre prototype, modificamos a todos los hijos, aunque el cambio se haya hecho despues de lo que queremos agregar
+* _Constructors_ (de Clases)
+Son las fabricas de objetos, si vamos a hacer muchos objetos nos conviene hacerlos con constructores para no repetir codigo.
